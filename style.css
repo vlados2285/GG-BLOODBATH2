@@ -1,0 +1,18 @@
+img{  
+    text-align: center;border-radius:25px; }
+    header{text-align: center;}
+    nav a {padding: 20px;background-color: blue;border-radius:500px;color:white ; text-decoration: none;}
+    nav{
+   margin: 10px 0px;
+   text-align: center;
+    background-color: rgb(0, 225, 255);
+    padding: 20px;border-radius:50px;
+}
+h1{text-align: center;color: azure;background-color: blue;border-radius:50px ;}
+h2{color: antiquewhite;background-color: blue;border-radius:25px;text-align: center;}
+body{background-color: lightblue;}
+footer{background-color: blueviolet;padding: 20px;border-radius:25px;}
+p {color: aliceblue;background-color: blue;;border-radius:25px;font-size:25px;padding:10px;}
+img{ 
+    width:150px;height:150px;}
+    h3{text-align:center ;}
